@@ -2,7 +2,7 @@
   
 **设计目的：**
 远程通过中移物联网的应用平台打开家里的树莓派推流直播，
-直播地址 https://live.bilibili.com/22658118?visit_id=j79m3hocrnk
+直播地址http://live.bilibili.com/22658118
 
 
 
